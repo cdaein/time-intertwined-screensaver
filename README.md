@@ -6,10 +6,10 @@ This is a Mac screensaver for the [Time Intertwined](https://www.fxhash.xyz/gene
 
 ## Installation
 
-Download the zip file from the Release, upzip and double click. If your Mac complains, go to the location in Finder and right-click and choose Open.
+Download the zip file from the Release, upzip and double click. If your Mac complains, click Show in Finder and right-click the `.saver` file and choose Open. There is not much going on in the app but use at your own risk.
 
 ## License
 
-Time Intertwined generative art is released under CC BY-NC 4.0.
+Screensaver App is based on [p5.js-screen-saver](https://github.com/mactkg/p5.js-screen-saver) and released under MIT License.
 
-Screensaver App code is based on [p5.js-screen-saver](https://github.com/mactkg/p5.js-screen-saver) and released under MIT License.
+Time Intertwined generative art is released under CC BY-NC 4.0.
