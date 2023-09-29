@@ -4,6 +4,8 @@
 
 This is a Mac screensaver for the [Time Intertwined](https://www.fxhash.xyz/generative/13526) generative art project. It will display one of the 256 tokens randomly each time the screensaver starts.
 
+> ⚠️ Currently, the screensaver doesn't work with the latest MacOS 14 Sonoma. It only displays the still image. If I find a solution, will update.
+
 ## Installation
 
 1. Download the zip file from the [Release](https://github.com/cdaein/time-intertwined-screensaver/releases),
